@@ -59,6 +59,7 @@ $ java -jar build/libs/kakaoTask3-0.0.1-SNAPSHOT.jar
   - 뿌린 건은 10분간만 유효합니다. 뿌린지 10분이 지난 요청에 대해서는 받기 실패
     오류가 납니다. 
   - 위에서 발생한 token값을 마지막 입력값으로 넣습니다. 
+  
   request(get방식) : http://localhost:8080/rcvmoney/9cA
   
 ```
@@ -73,6 +74,7 @@ $ java -jar build/libs/kakaoTask3-0.0.1-SNAPSHOT.jar
   - 뿌린 건은 10분간만 유효합니다. 뿌린지 10분이 지난 요청에 대해서는 받기 실패
     오류가 납니다. 
   - 초기 뿌리기에서 생성한 토큰 값을 마지막부분에 넣습니다. 
+  
   request(get방식) : http://localhost:8080/givers/status/9cA
   
 ```
