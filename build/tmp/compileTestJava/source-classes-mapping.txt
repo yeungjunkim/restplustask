@@ -1,2 +1,6 @@
 com/kygi/kakaoTask3/KakaoTask3ApplicationTests.java
  com.kygi.kakaoTask3.KakaoTask3ApplicationTests
+com/kygi/kakaoTask3/dto/GiverListDTOTest.java
+ com.kygi.kakaoTask3.dto.GiverListDTOTest
+com/kygi/kakaoTask3/Controller/GiverControllerTest.java
+ com.kygi.kakaoTask3.Controller.GiverControllerTest

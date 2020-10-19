@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e5dc2aa-d835-4014-97c1-536e36e5da36" name="Default Changelist" comment="" />
+    <list default="true" id="7e5dc2aa-d835-4014-97c1-536e36e5da36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kygi/kakaoTask3/Controller/GiverControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kygi/kakaoTask3/dto/GiverListDTOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/dto/TokenDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/dto/TokenDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/model/Giver$GiverBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/model/Giver.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/model/Giver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.kygi.kakaoTask3.KakaoTask3ApplicationTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.kygi.kakaoTask3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.kygi.kakaoTask3.KakaoTask3ApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/dto/TokenDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/dto/TokenDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/model/Giver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/model/Giver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/kygi/kakaoTask3/controller/GiverControllerTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +89,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/com/kygi/kakaoTask3/controller" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -67,17 +99,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kygi.kakaoTask3.dto" />
       <recent name="com.kygi.kakaoTask3.controller" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/com/kygi/kakaoTask3/controller" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/kygi/kakaoTask3/Controller" />
       <recent name="$PROJECT_DIR$/src/test" />
       <recent name="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/repository" />
       <recent name="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/model" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/dto" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/controller" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.kygi.kakaoTask3.model" />
@@ -87,7 +120,67 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.KakaoTask3Application">
+  <component name="RunManager" selected="Gradle.Tests in 'com.kygi.kakaoTask3.Controller'">
+    <configuration name="GiverListDTOTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.kygi.kakaoTask3.dto.GiverListDTOTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'com.kygi.kakaoTask3'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.kygi.kakaoTask3.*&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'com.kygi.kakaoTask3.Controller'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.kygi.kakaoTask3.Controller.*&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="Tests in 'kakaoTask3'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -117,7 +210,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Tests in 'com.kygi.kakaoTask3.Controller'" />
         <item itemvalue="Gradle.Tests in 'kakaoTask3'" />
+        <item itemvalue="Gradle.Tests in 'com.kygi.kakaoTask3'" />
+        <item itemvalue="Gradle.GiverListDTOTest" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +242,8 @@
       <workItem from="1602878813375" duration="6015000" />
       <workItem from="1602898989440" duration="2063000" />
       <workItem from="1603091234492" duration="20149000" />
-      <workItem from="1603112040151" duration="4368000" />
+      <workItem from="1603112040151" duration="7977000" />
+      <workItem from="1603140824070" duration="3945000" />
     </task>
     <task id="LOCAL-00001" summary="secode commit">
       <created>1603116415101</created>
@@ -155,7 +252,49 @@
       <option name="project" value="LOCAL" />
       <updated>1603116415101</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="secode commit">
+      <created>1603116512597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603116512597</updated>
+    </task>
+    <task id="LOCAL-00003" summary="secode commit">
+      <created>1603116617984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603116617984</updated>
+    </task>
+    <task id="LOCAL-00004" summary="readme 파일 수정 &#10;&#10;github 경로 수정 및 폴더 수정">
+      <created>1603117059998</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603117059998</updated>
+    </task>
+    <task id="LOCAL-00005" summary="readme 파일 추가 수정">
+      <created>1603117618018</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603117618018</updated>
+    </task>
+    <task id="LOCAL-00006" summary="readme 파일 추가 수정">
+      <created>1603117689540</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603117689540</updated>
+    </task>
+    <task id="LOCAL-00007" summary="readme 파일 추가 수정">
+      <created>1603117736940</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603117736940</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,85 +303,95 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="secode commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="secode commit" />
+    <MESSAGE value="readme 파일 수정 &#10;&#10;github 경로 수정 및 폴더 수정" />
+    <MESSAGE value="readme 파일 추가 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme 파일 추가 수정" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="231" key="#Notifications" timestamp="1603116426990">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state x="440" y="231" key="#Notifications/0.23.1680.980@0.23.1680.980" timestamp="1603116426990" />
-    <state x="440" y="180" key="#Project_Structure" timestamp="1603113148609">
+    <state x="440" y="180" key="#Project_Structure" timestamp="1603139700198">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state x="440" y="180" key="#Project_Structure/0.23.1680.980@0.23.1680.980" timestamp="1603113148609" />
+    <state x="440" y="180" key="#Project_Structure/0.23.1680.980@0.23.1680.980" timestamp="1603139700198" />
     <state x="304" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603112359203">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state x="304" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.980@0.23.1680.980" timestamp="1603112359203" />
+    <state x="514" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603140140285">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="514" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.980@0.23.1680.980" timestamp="1603140140285" />
+    <state x="653" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1603143511494">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="653" y="225" key="#com.intellij.ide.util.MemberChooser/0.23.1680.980@0.23.1680.980" timestamp="1603143511494" />
     <state x="578" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603109451477">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state x="578" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.980@0.23.1680.980" timestamp="1603109451477" />
-    <state x="390" y="169" key="CommitChangelistDialog2" timestamp="1603116512378">
+    <state x="390" y="169" key="CommitChangelistDialog2" timestamp="1603117736768">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state x="390" y="169" key="CommitChangelistDialog2/0.23.1680.980@0.23.1680.980" timestamp="1603116512378" />
-    <state width="1638" height="257" key="GridCell.Tab.0.bottom" timestamp="1603116271735">
+    <state x="390" y="169" key="CommitChangelistDialog2/0.23.1680.980@0.23.1680.980" timestamp="1603117736768" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom" timestamp="1603144687546">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1603116271735" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1603144687546" />
     <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.23.1680.981@0.23.1680.981" timestamp="1603093644792" />
-    <state width="1638" height="257" key="GridCell.Tab.0.center" timestamp="1603116271734">
+    <state width="1638" height="257" key="GridCell.Tab.0.center" timestamp="1603144687545">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1603116271734" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1603144687545" />
     <state width="1638" height="257" key="GridCell.Tab.0.center/0.23.1680.981@0.23.1680.981" timestamp="1603093644791" />
-    <state width="1638" height="257" key="GridCell.Tab.0.left" timestamp="1603116271734">
+    <state width="1638" height="257" key="GridCell.Tab.0.left" timestamp="1603144687545">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1603116271734" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1603144687545" />
     <state width="1638" height="257" key="GridCell.Tab.0.left/0.23.1680.981@0.23.1680.981" timestamp="1603093644791" />
-    <state width="1638" height="257" key="GridCell.Tab.0.right" timestamp="1603116271735">
+    <state width="1638" height="257" key="GridCell.Tab.0.right" timestamp="1603144687546">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1603116271735" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1603144687546" />
     <state width="1638" height="257" key="GridCell.Tab.0.right/0.23.1680.981@0.23.1680.981" timestamp="1603093644792" />
-    <state width="1638" height="257" key="GridCell.Tab.1.bottom" timestamp="1603116271736">
+    <state width="1638" height="257" key="GridCell.Tab.1.bottom" timestamp="1603139290288">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.1.bottom/0.23.1680.980@0.23.1680.980" timestamp="1603116271736" />
+    <state width="1638" height="257" key="GridCell.Tab.1.bottom/0.23.1680.980@0.23.1680.980" timestamp="1603139290288" />
     <state width="1638" height="257" key="GridCell.Tab.1.bottom/0.23.1680.981@0.23.1680.981" timestamp="1603093644794" />
-    <state width="1638" height="257" key="GridCell.Tab.1.center" timestamp="1603116271735">
+    <state width="1638" height="257" key="GridCell.Tab.1.center" timestamp="1603139290288">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.1.center/0.23.1680.980@0.23.1680.980" timestamp="1603116271735" />
+    <state width="1638" height="257" key="GridCell.Tab.1.center/0.23.1680.980@0.23.1680.980" timestamp="1603139290288" />
     <state width="1638" height="257" key="GridCell.Tab.1.center/0.23.1680.981@0.23.1680.981" timestamp="1603093644793" />
-    <state width="1638" height="257" key="GridCell.Tab.1.left" timestamp="1603116271735">
+    <state width="1638" height="257" key="GridCell.Tab.1.left" timestamp="1603139290288">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.1.left/0.23.1680.980@0.23.1680.980" timestamp="1603116271735" />
+    <state width="1638" height="257" key="GridCell.Tab.1.left/0.23.1680.980@0.23.1680.980" timestamp="1603139290288" />
     <state width="1638" height="257" key="GridCell.Tab.1.left/0.23.1680.981@0.23.1680.981" timestamp="1603093644793" />
-    <state width="1638" height="257" key="GridCell.Tab.1.right" timestamp="1603116271735">
+    <state width="1638" height="257" key="GridCell.Tab.1.right" timestamp="1603139290288">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.1.right/0.23.1680.980@0.23.1680.980" timestamp="1603116271735" />
+    <state width="1638" height="257" key="GridCell.Tab.1.right/0.23.1680.980@0.23.1680.980" timestamp="1603139290288" />
     <state width="1638" height="257" key="GridCell.Tab.1.right/0.23.1680.981@0.23.1680.981" timestamp="1603093644794" />
     <state x="341" y="152" key="SettingsEditor" timestamp="1603115730058">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state x="341" y="152" key="SettingsEditor/0.23.1680.980@0.23.1680.980" timestamp="1603115730058" />
-    <state x="440" y="305" key="Vcs.Push.Dialog.v2" timestamp="1603116543881">
+    <state x="440" y="305" key="Vcs.Push.Dialog.v2" timestamp="1603117738768">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state x="440" y="305" key="Vcs.Push.Dialog.v2/0.23.1680.980@0.23.1680.980" timestamp="1603116543881" />
-    <state x="623" y="310" key="chooseDestDirectoryDialog" timestamp="1603113200369">
+    <state x="440" y="305" key="Vcs.Push.Dialog.v2/0.23.1680.980@0.23.1680.980" timestamp="1603117738768" />
+    <state x="623" y="310" key="chooseDestDirectoryDialog" timestamp="1603139729664">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state x="623" y="310" key="chooseDestDirectoryDialog/0.23.1680.980@0.23.1680.980" timestamp="1603113200369" />
-    <state x="586" y="263" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603113202330">
+    <state x="623" y="310" key="chooseDestDirectoryDialog/0.23.1680.980@0.23.1680.980" timestamp="1603139729664" />
+    <state x="756" y="183" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603140582339">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state x="586" y="263" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1680.980@0.23.1680.980" timestamp="1603113202330" />
+    <state x="756" y="183" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1680.980@0.23.1680.980" timestamp="1603140582339" />
     <state x="495" y="277" width="689" height="472" key="find.popup" timestamp="1603114535042">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
@@ -252,10 +401,10 @@
       <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state width="600" height="424" key="javadoc.popup/0.23.1680.980@0.23.1680.980" timestamp="1603106687905" />
-    <state x="505" y="164" width="670" height="676" key="search.everywhere.popup" timestamp="1603098444485">
+    <state x="505" y="164" width="670" height="676" key="search.everywhere.popup" timestamp="1603139335154">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state x="505" y="164" width="670" height="676" key="search.everywhere.popup/0.23.1680.980@0.23.1680.980" timestamp="1603098444485" />
+    <state x="505" y="164" width="670" height="676" key="search.everywhere.popup/0.23.1680.980@0.23.1680.980" timestamp="1603139335154" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/kakaoTask3$Tests_in__kakaoTask3_.ic" NAME="Tests in 'kakaoTask3' Coverage Results" MODIFIED="1603112758705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

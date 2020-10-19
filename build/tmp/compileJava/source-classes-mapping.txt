@@ -1,8 +1,8 @@
 com/kygi/kakaoTask3/model/Receiver.java
  com.kygi.kakaoTask3.model.Receiver
  com.kygi.kakaoTask3.model.Receiver$ReceiverBuilder
-com/kygi/kakaoTask3/KakaoTask3Application.java
- com.kygi.kakaoTask3.KakaoTask3Application
+com/kygi/kakaoTask3/controller/GiverController.java
+ com.kygi.kakaoTask3.controller.GiverController
 com/kygi/kakaoTask3/dto/GiverListDTO.java
  com.kygi.kakaoTask3.dto.GiverListDTO
  com.kygi.kakaoTask3.dto.GiverListDTO$GiverListDTOBuilder
@@ -23,13 +23,12 @@ com/kygi/kakaoTask3/dto/GiverSumDetailDTO.java
  com.kygi.kakaoTask3.dto.GiverSumDetailDTO
 com/kygi/kakaoTask3/dto/ReceiverOneDTO.java
  com.kygi.kakaoTask3.dto.ReceiverOneDTO
-com/kygi/kakaoTask3/service/GiverService.java
- com.kygi.kakaoTask3.service.GiverService
+com/kygi/kakaoTask3/KakaoTask3Application.java
+ com.kygi.kakaoTask3.KakaoTask3Application
 com/kygi/kakaoTask3/dto/ReceiverListDTO.java
  com.kygi.kakaoTask3.dto.ReceiverListDTO
  com.kygi.kakaoTask3.dto.ReceiverListDTO$ReceiverListDTOBuilder
+com/kygi/kakaoTask3/service/GiverService.java
+ com.kygi.kakaoTask3.service.GiverService
 com/kygi/kakaoTask3/model/Giver.java
  com.kygi.kakaoTask3.model.Giver
- com.kygi.kakaoTask3.model.Giver$GiverBuilder
-com/kygi/kakaoTask3/controller/GiverController.java
- com.kygi.kakaoTask3.controller.GiverController

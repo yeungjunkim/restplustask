@@ -30,8 +30,11 @@ dependencies {
 	}
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	testImplementation 'org.springframework.boot:spring-boot-starter-webflux'
+	implementation 'junit:junit:4.12'
 }
 
 test {
 	useJUnitPlatform()
+	systemProperty 'spring.profiles.active', 'test'
+
 }
