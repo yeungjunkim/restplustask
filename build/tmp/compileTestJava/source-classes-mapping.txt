@@ -1,0 +1,2 @@
+com/kygi/kakaoTask3/KakaoTask3ApplicationTests.java
+ com.kygi.kakaoTask3.KakaoTask3ApplicationTests

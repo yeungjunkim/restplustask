@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e5dc2aa-d835-4014-97c1-536e36e5da36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/KakaoTask3Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/Util/CommonUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/controller/GiverController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/dto/GiverListDTO$GiverListDTOBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/dto/GiverListDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/dto/GiverSumDetailDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/dto/ReceiverAmtDTO$ReceiverAmtDTOBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/dto/ReceiverAmtDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/dto/ReceiverListDTO$ReceiverListDTOBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/dto/ReceiverListDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/dto/ReceiverOneDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/dto/TokenDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/model/AuditModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/model/BaseEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/model/Giver$GiverBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/model/Giver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/model/Receiver$ReceiverBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/model/Receiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/repository/GiverRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/kygi/kakaoTask3/service/GiverService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/kygi/kakaoTask3/KakaoTask3ApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/kakaoTask3-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.kygi.kakaoTask3.KakaoTask3ApplicationTests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.kygi.kakaoTask3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.kygi.kakaoTask3.KakaoTask3ApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/KakaoTask3Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/Util/CommonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/controller/GiverController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/dto/GiverListDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/dto/GiverSumDetailDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/dto/ReceiverAmtDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/dto/ReceiverListDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/dto/ReceiverOneDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/dto/TokenDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/model/AuditModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/model/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/model/Giver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/model/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/repository/GiverRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/service/GiverService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/com/kygi/kakaoTask3/controller/GiverControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kygi/kakaoTask3/KakaoTask3ApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kygi" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iyTPjPTgXYotZBrlt2GXqQf1GJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/com/kygi/kakaoTask3/controller" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kygi.kakaoTask3.controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/repository" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/model" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/dto" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/kygi/kakaoTask3/controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kygi.kakaoTask3.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.KakaoTask3Application">
+    <configuration name="Tests in 'kakaoTask3'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="KakaoTask3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kakaoTask3.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kygi.kakaoTask3.KakaoTask3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'kakaoTask3'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e5dc2aa-d835-4014-97c1-536e36e5da36" name="Default Changelist" comment="" />
+      <created>1602878809909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602878809909</updated>
+      <workItem from="1602878813375" duration="6015000" />
+      <workItem from="1602898989440" duration="2063000" />
+      <workItem from="1603091234492" duration="20149000" />
+      <workItem from="1603112040151" duration="4321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="secode commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="secode commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="231" key="#Notifications" timestamp="1603116379735">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="440" y="231" key="#Notifications/0.23.1680.980@0.23.1680.980" timestamp="1603116379735" />
+    <state x="440" y="180" key="#Project_Structure" timestamp="1603113148609">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="440" y="180" key="#Project_Structure/0.23.1680.980@0.23.1680.980" timestamp="1603113148609" />
+    <state x="304" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603112359203">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="304" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.980@0.23.1680.980" timestamp="1603112359203" />
+    <state x="578" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603109451477">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="578" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.980@0.23.1680.980" timestamp="1603109451477" />
+    <state x="390" y="169" key="CommitChangelistDialog2" timestamp="1603116326313">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="390" y="169" key="CommitChangelistDialog2/0.23.1680.980@0.23.1680.980" timestamp="1603116326313" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom" timestamp="1603116271735">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1603116271735" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.23.1680.981@0.23.1680.981" timestamp="1603093644792" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center" timestamp="1603116271734">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="257" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1603116271734" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center/0.23.1680.981@0.23.1680.981" timestamp="1603093644791" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left" timestamp="1603116271734">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="257" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1603116271734" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left/0.23.1680.981@0.23.1680.981" timestamp="1603093644791" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right" timestamp="1603116271735">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="257" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1603116271735" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right/0.23.1680.981@0.23.1680.981" timestamp="1603093644792" />
+    <state width="1638" height="257" key="GridCell.Tab.1.bottom" timestamp="1603116271736">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="257" key="GridCell.Tab.1.bottom/0.23.1680.980@0.23.1680.980" timestamp="1603116271736" />
+    <state width="1638" height="257" key="GridCell.Tab.1.bottom/0.23.1680.981@0.23.1680.981" timestamp="1603093644794" />
+    <state width="1638" height="257" key="GridCell.Tab.1.center" timestamp="1603116271735">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="257" key="GridCell.Tab.1.center/0.23.1680.980@0.23.1680.980" timestamp="1603116271735" />
+    <state width="1638" height="257" key="GridCell.Tab.1.center/0.23.1680.981@0.23.1680.981" timestamp="1603093644793" />
+    <state width="1638" height="257" key="GridCell.Tab.1.left" timestamp="1603116271735">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="257" key="GridCell.Tab.1.left/0.23.1680.980@0.23.1680.980" timestamp="1603116271735" />
+    <state width="1638" height="257" key="GridCell.Tab.1.left/0.23.1680.981@0.23.1680.981" timestamp="1603093644793" />
+    <state width="1638" height="257" key="GridCell.Tab.1.right" timestamp="1603116271735">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="257" key="GridCell.Tab.1.right/0.23.1680.980@0.23.1680.980" timestamp="1603116271735" />
+    <state width="1638" height="257" key="GridCell.Tab.1.right/0.23.1680.981@0.23.1680.981" timestamp="1603093644794" />
+    <state x="341" y="152" key="SettingsEditor" timestamp="1603115730058">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="341" y="152" key="SettingsEditor/0.23.1680.980@0.23.1680.980" timestamp="1603115730058" />
+    <state x="623" y="310" key="chooseDestDirectoryDialog" timestamp="1603113200369">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="623" y="310" key="chooseDestDirectoryDialog/0.23.1680.980@0.23.1680.980" timestamp="1603113200369" />
+    <state x="586" y="263" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603113202330">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="586" y="263" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1680.980@0.23.1680.980" timestamp="1603113202330" />
+    <state x="495" y="277" width="689" height="472" key="find.popup" timestamp="1603114535042">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="495" y="277" width="689" height="472" key="find.popup/0.23.1680.980@0.23.1680.980" timestamp="1603114535042" />
+    <state x="495" y="277" width="689" height="473" key="find.popup/0.23.1680.981@0.23.1680.981" timestamp="1603093475338" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1603106687905">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1680.980@0.23.1680.980" timestamp="1603106687905" />
+    <state x="505" y="164" width="670" height="676" key="search.everywhere.popup" timestamp="1603098444485">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="505" y="164" width="670" height="676" key="search.everywhere.popup/0.23.1680.980@0.23.1680.980" timestamp="1603098444485" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kakaoTask3$Tests_in__kakaoTask3_.ic" NAME="Tests in 'kakaoTask3' Coverage Results" MODIFIED="1603112758705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
