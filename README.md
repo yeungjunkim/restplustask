@@ -27,8 +27,8 @@
 - Git, Java 는 설치되어 있다고 가정한다.
 
 ```
-$ git clone https://github.com/CODEMCD/kakaopay-task3.git
-$ cd kakaoTask3
+$ git clone https://github.com/yeungjunkim/restplustask.git
+$ cd restplustask
 $ ./gradlew clean build
 $ java -jar build/libs//kakaoTask3-0.0.1-SNAPSHOT.jar
 ```
